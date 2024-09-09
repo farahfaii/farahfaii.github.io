@@ -73,10 +73,6 @@ body > footer {
     display: flex;
 }
 
-img {
-    border-radius: 50%;
-}
-
 #footer-ul{
     display: flex;
     list-style: none;
